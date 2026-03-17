@@ -1,0 +1,28 @@
+{
+  "1720020794": {
+    "vip_level": 2,
+    "total_jobs": 52,
+    "total_hits": 608,
+    "daily_stats": {
+      "date": "2026-03-18",
+      "files_uploaded": 2
+    },
+    "banned": false,
+    "custom_daily_limit": null,
+    "approved": true,
+    "username": "djoudi38"
+  },
+  "7653129584": {
+    "vip_level": 0,
+    "total_jobs": 0,
+    "total_hits": 0,
+    "banned": false,
+    "custom_daily_limit": 9999,
+    "daily_stats": {
+      "date": "2026-03-18",
+      "files_uploaded": 0
+    },
+    "approved": true,
+    "username": ""
+  }
+}
